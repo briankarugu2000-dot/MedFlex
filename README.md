@@ -5,8 +5,7 @@
 
 ## Project Overview
 
-A simple healthcare staffing dashboard layout built using **HTML** and **Tailwind CSS**. This project focuses on clean structure and responsive design for a frontend assignment, completely free of JavaScript.
-
+A simple healthcare staffing dashboard layout built using **HTML** and **Tailwind CSS**.
 ## Features
 
 * **Responsive Layout:** Automatically scales for mobile and desktop screens.
